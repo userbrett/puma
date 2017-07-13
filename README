@@ -1,0 +1,12 @@
+README - PUMA
+
+The Purdue University Motion Analysis (PUMA) system was developed to
+digitize video so that could be analyzed frame by frame (actually,
+field by field).  Analysis includes tracking many coordinates over time.
+
+The result of the analysis is a sequence of coordinate matrices that can
+analyzed for kinematics such as velocity, acceleration, and angular
+momentum.  This work is in the VideoCapture directory.
+
+When combined with forces associated with the motions, both the kinetics
+and kinematics associated with the motion can be analyzed.
